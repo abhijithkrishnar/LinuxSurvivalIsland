@@ -61,6 +61,7 @@
 
 # Packaging
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.zir filter=lfs diff=lfs merge=lfs -text
 *.7z filter=lfs diff=lfs merge=lfs -text
 *.gz filter=lfs diff=lfs merge=lfs -text
 *.rar filter=lfs diff=lfs merge=lfs -text
